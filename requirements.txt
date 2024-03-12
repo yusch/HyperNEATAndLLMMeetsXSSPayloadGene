@@ -1,0 +1,6 @@
+llama-cpp-python
+numpy
+neat-python
+graphviz
+matplotlib
+gym
